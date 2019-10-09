@@ -1,0 +1,14 @@
+/target/
+/.project
+/.settings/
+/.classpath
+.project
+/.idea
+/*.iml
+autotests/workautotest/report
+
+.editorconfig
+
+**.log*
+**git.properties
+**.testcontainers*
